@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Study Assistant",
+  "description": "A powerful personal chatbot that acts as a study assistant. It can analyze images, identify key points and potential traps in test questions, and help users learn more effectively using Gemini.",
+  "requestFramePermissions": []
+}
